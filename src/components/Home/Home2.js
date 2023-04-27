@@ -19,8 +19,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              It was my 12th when I fell for coding. But due to some circumstances I opted for Diploma.
-              Well now after having a ~2 year in Corporate. I am back to <b className="purple"> Coding.</b>
+              It was my 12th when I fell for coding. Thereafter I got into Diploma in Electronics!!
+              Well now after doing a 9-6 job in Corporate. I am back to <b className="purple"> Coding.</b>
               <br />
               <br />I am fluent in classics like
               <i>
