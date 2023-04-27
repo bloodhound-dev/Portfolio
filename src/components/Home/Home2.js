@@ -20,7 +20,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               It was my 12th when I fell for coding. Thereafter I got into Diploma in Electronics!!
-              Well now after doing a 9-6 job in Corporate. I am back to <b className="purple"> Coding.</b>
+              Well now after doing a 9-6 job in Corporate for nearly 2 years. Now, I am back to <b className="purple"> Coding.</b>
               <br />
               <br />I am fluent in classics like
               <i>
